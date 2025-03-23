@@ -1,0 +1,10 @@
+widget(container_z, {
+    align: center;
+
+    widget(label, {
+        padding: [1em, 0];
+        caption: _("Audio muted");
+        align: center;
+    });
+
+});
