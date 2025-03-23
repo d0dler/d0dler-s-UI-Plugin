@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "plugins": 
+    [
+        {
+            "id": "shoutcast",
+            "version": "1.0.0",
+            "type": "ecmascript",
+            "author": "d0dler",
+            "showtimeVersion": "5.0.312",
+            "title": "d0dler's UI-Plugin",
+            "synopsis": "Fixt ein paar Dinge die mich an der UI stören.",
+            "description": "Bildschirmschoner kann jetzt komplett schwarz sein und ohne Uhrzeit oben rechts. Außerdem Bug-Fix: Im 4:3 Mode kann man im Player jetzt nach links zum 'Audiospur'-Button navigieren.",
+            "homepage": "https://github.com/d0dler/d0dler-s-UI-Plugin",
+            "category": "glwview",
+            "downloadURL": "https://github.com/d0dler/d0dler-s-UI-Plugin/blob/main/d0dler's%20UI-Plugin.zip",
+            "icon": "https://github.com/d0dler/d0dler-s-UI-Plugin/blob/main/logo.png",
+            "popularity": 1
+        }
+    ]
+}
