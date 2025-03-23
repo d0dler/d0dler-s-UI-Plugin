@@ -4,7 +4,7 @@
     [
         {
             "id": "test",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "ecmascript",
             "author": "d0dler",
             "showtimeVersion": "5.0.312",
